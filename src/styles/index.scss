@@ -1,0 +1,12 @@
+@import './font-mixin';
+@import './reset';
+h2 {
+
+    @include bold-black-arial;
+    font-size: 2rem;
+    
+}
+
+.hide {
+    display: none;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "lesson19",
+  "version": "1.0.0",
+  "description": "Lesson19 Global scope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Randwow/Lesson19.git"
+  },
+  "author": "Macheev Nichita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Randwow/Lesson19/issues"
+  },
+  "homepage": "https://github.com/Randwow/Lesson19#readme"
+}

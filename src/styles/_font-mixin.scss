@@ -1,0 +1,7 @@
+@mixin bold-black-arial {
+    font: {
+        family: Arial;
+        weight: bold;
+    }
+    color: black;
+}
